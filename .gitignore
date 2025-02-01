@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Node.js
+node_modules/
+
+# Vite
+/dist
+/vite.config.ts
+
+# Build output
+/build
+/.cache
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv environment files
+.env
+.env.local
+.env.*.local
+
+# npm package lock files
+package-lock.json
+yarn.lock
+
+# Typescript/IDE configurations
+*.tsbuildinfo
+.vscode/
+
+# GitHub Pages
+/.deploy/
+
+# Optional: Add if you use macOS and don't want .DS_Store files
+# .DS_Store
+

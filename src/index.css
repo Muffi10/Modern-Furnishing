@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:#D3D5D7;
+}
+body {
+    font-family: 'Red Hat Display';
+  }
+  
+  /* Optionally, you can apply Kaushan Script to specific headings or elements */
+ 
